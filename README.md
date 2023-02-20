@@ -1,1 +1,3 @@
-# sacode-coding-dasar-i-tugas-day07
+# SaCode Coding Dasar I Tugas day 07
+
+How To Make A Search Box With Animated Slider Using HTML And CSS
